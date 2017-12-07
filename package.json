@@ -25,12 +25,12 @@
     "server"
   ],
   "dependencies": {
-    "socket.io": "1.7.2",
-    "async": "0.2.5",
+    "socket.io": "2.0.4",
+    "async": "2.6.0",
     "seq-queue": "0.0.5",
-    "crc": "0.2.0",
-    "cliff": "0.1.8",
-    "mkdirp": "0.3.3",
+    "crc": "3.5.0",
+    "cliff": "0.1.10",
+    "mkdirp": "0.5.1",
     "pomelo-loader": "0.0.6",
     "pomelo-rpc": "git+http://gitlab.369.com/zhipeng/pomelo-rpc.git",
     "pomelo-protocol": "0.1.6",
@@ -40,8 +40,8 @@
     "ws": "~3.3.2",
     "pomelo-protobuf": "0.4.0",
     "node-bignumber": "1.2.1",
-    "commander": "2.0.0",
-    "mqtt": "0.3.9"
+    "commander": "2.12.2",
+    "mqtt": "2.14.0"
   },
   "bin": {
     "pomelo": "./bin/pomelo"
