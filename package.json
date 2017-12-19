@@ -12,10 +12,12 @@
   "bugs": {
     "url": "https://github.com/NetEase/pomelo/issues"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/NetEase/pomelo#license"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/NetEase/pomelo#license"
+    }
+  ],
   "keywords": [
     "pomelo",
     "framework",
@@ -41,7 +43,7 @@
     "pomelo-protobuf": "0.4.0",
     "node-bignumber": "1.2.1",
     "commander": "2.12.2",
-    "mqtt": "2.14.0"
+    "mqtt": "1.14.1"
   },
   "bin": {
     "pomelo": "./bin/pomelo"
