@@ -1,8 +1,8 @@
 {
   "development": {
-    "id": "master-server-1", "host": "192.168.23.234", "port": 3006
+    "id": "master-server-1", "host": "192.168.221.45", "port": 3006
   },
   "production": {
-    "id": "master-server-1", "host": "127.0.0.1", "port": 3006
+    "id": "master-server-1", "host": "192.168.221.45", "port": 3006
   }
 }
