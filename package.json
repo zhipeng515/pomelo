@@ -1,5 +1,5 @@
 {
-  "name": "pomelo-369",
+  "name": "pomelo",
   "version": "2.2.5",
   "homepage": "https://github.com/NetEase/pomelo",
   "repository": {
@@ -34,7 +34,7 @@
     "cliff": "0.1.10",
     "mkdirp": "0.5.1",
     "pomelo-loader": "0.0.6",
-    "pomelo-rpc-369": "1.0.7",
+    "pomelo-rpc": "https://github.com/zhipeng515/pomelo-rpc.git",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "1.0.0",
     "pomelo-logger": "0.1.7",
