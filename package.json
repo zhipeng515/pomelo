@@ -34,7 +34,7 @@
     "cliff": "0.1.10",
     "mkdirp": "0.5.1",
     "pomelo-loader": "0.0.6",
-    "pomelo-rpc": "git@gitlab.369.com:zhipeng/pomelo-rpc.git",
+    "pomelo-rpc": "https://github.com/zhipeng515/pomelo-rpc.git",
     "pomelo-protocol": "0.1.6",
     "pomelo-admin": "1.0.0",
     "pomelo-logger": "0.1.7",
